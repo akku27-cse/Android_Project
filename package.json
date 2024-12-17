@@ -1,5 +1,5 @@
 {
-  "name": "deyamusicplayer",
+  "name": "demotaskmanager",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -10,12 +10,15 @@
     "test": "jest"
   },
   "dependencies": {
-    "react": "18.3.1",
-    "react-native": "0.76.3",
+    "@react-native-community/datetimepicker": "^8.2.0",
     "@react-navigation/bottom-tabs": "^7.1.1",
     "@react-navigation/core": "^7.2.1",
     "@react-navigation/native": "^7.0.11",
     "@react-navigation/native-stack": "^7.1.12",
+    "react": "18.3.1",
+    "react-native": "0.76.3",
+    "react-native-calendars": "^1.1307.0",
+    "react-native-calender": "^1.0.1",
     "react-native-gesture-handler": "^2.21.2",
     "react-native-safe-area-context": "^4.14.0",
     "react-native-screens": "^4.3.0"
